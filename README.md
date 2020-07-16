@@ -1,27 +1,27 @@
 # Confini
  A cli application allowing secure and efficient storage, management of credentials (username & password) in a `conf.ini` file. 
 
-# TODO:
+## TODO:
 - Enable retieval of credentials
 - Update crypto
 - Enhance scope of conf.ini file
 
 
-# Usage
+## Usage
 1. Initiate a conf.ini file
-!(configstore init)[examples/init.gif]
-
-1. Initiate a conf.ini file
-!(configstore add)[examples/add.gif]
+![configstore init](examples/init.gif)
 
 1. Initiate a conf.ini file
-!(configstore edit)[examples/edit.gif]
+![configstore add](examples/add.gif)
 
 1. Initiate a conf.ini file
-!(configstore delete)[examples/delete.gif]
+![configstore edit](examples/edit.gif)
+
+1. Initiate a conf.ini file
+![configstore delete](examples/delete.gif)
 
 
-# Contribute
+## Contribute
 There are many ways in which you can participate in the project, for example:
 
 - Submit bugs and feature requests, and help me verify as they are checked in
